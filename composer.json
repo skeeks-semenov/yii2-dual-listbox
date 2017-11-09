@@ -17,8 +17,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
-		"istvan-ujjmeszaros/bootstrap-duallistbox": "*"
+        "yiisoft/yii2": "~2",
+		"istvan-ujjmeszaros/bootstrap-duallistbox": "~3.0"
     },
     "autoload": {
         "psr-4": {
